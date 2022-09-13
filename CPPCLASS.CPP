@@ -22,4 +22,7 @@ add a;
 a.input();
 a.display();
 getch();
-}
+}       ]
+
+
+
