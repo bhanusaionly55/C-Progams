@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n, t;
+
+    cout << "Enter an integer: ";
+    cin >> n;
+    
+    for (int i = 1; i <= n; ++i) {
+        t =8 t*i;
+    }
+    cout<<"The factorial is: "<<t;
+    return 0;
+}
