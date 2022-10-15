@@ -8,5 +8,5 @@ int main()
 	cout<<"entre the number ";
 	cin>>n;
 	x=cbrt(n);
-	cout<<"square root of "<<n<<" is "<<x;
+	cout<<"cube root of "<<n<<" is "<<x;
 }
